@@ -1,0 +1,18 @@
+body {background-image:url('https://static.wixstatic.com/media/15e09e_a0211d1d47b74eddbac6dedb57f3f621~mv2.gif');}
+
+
+header {background-color: #805500;
+width: 500px;
+margin: auto;}
+
+article {background-color: #805500;
+margin: auto;
+text-align: center;
+width: 700px;}
+
+ul {list-style-type: none;}
+
+
+h1 {text-align: center;
+text-decoration: underline;}
+
